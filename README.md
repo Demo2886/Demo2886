@@ -22,4 +22,4 @@
 - 🚀 Productivity ambassador  
 - 🎓 Lifelong learner
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=demo&theme=neon&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Demo2886&theme=neon&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
